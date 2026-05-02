@@ -25,10 +25,16 @@ Requisitos: PHP >= 7.4 y Composer instalado.
 - src/Modelos/Usuario.php → Clase App\Modelos\Usuario
 - src/Servicios/Carrito.php → Clase App\Servicios\Carrito
 - vendor/ → Generado por Composer, NO está en el repositorio
+- <img width="431" height="443" alt="image" src="https://github.com/user-attachments/assets/2da234cc-4806-4717-b8bd-a0ad52b410b4" />
+
 
 ## Prueba de Ejecución
 
 Al correr php index.php se muestran los productos agregados al carrito, el aviso de sin stock para el Monitor 4K y el total de $989.99, sin ningún error de Class not found.
+
+## Resultados
+<img width="935" height="447" alt="image" src="https://github.com/user-attachments/assets/4e9ecb1d-174b-4ac2-9ede-3a2240397ada" />
+
 
 Estudiante: Irvin Gonzalez 8-1019-2150
 Profesora: Irina Fong
