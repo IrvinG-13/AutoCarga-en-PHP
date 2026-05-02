@@ -30,10 +30,5 @@ Requisitos: PHP >= 7.4 y Composer instalado.
 
 Al correr php index.php se muestran los productos agregados al carrito, el aviso de sin stock para el Monitor 4K y el total de $989.99, sin ningún error de Class not found.
 
-## Conclusiones Técnicas
-
-1. Mantenibilidad: Agregar una nueva clase no requiere modificar ningún archivo de configuración global. Basta con crear el archivo en la carpeta correcta respetando el namespace.
-
-2. Eficiencia de Memoria - Lazy Loading: El autoloader carga una clase en memoria solo cuando se instancia por primera vez, evitando que archivos innecesarios consuman recursos del servidor.
-
-3. Estandarización PSR-4: Seguir este estándar garantiza que cualquier desarrollador entienda la estructura del proyecto de forma intuitiva, facilitando el trabajo colaborativo y la compatibilidad con frameworks como Laravel y Symfony.
+Estudiante: Irvin Gonzalez 8-1019-2150
+Profesora: Irina Fong
